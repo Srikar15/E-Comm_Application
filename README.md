@@ -1,2 +1,3 @@
 # E-Comm_Application
-Mini Project
+Mini Project 
+MS SQL Case study
